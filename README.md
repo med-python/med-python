@@ -3,6 +3,10 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">data scientist,  from Russia 🇷🇺</h3>
 
+MD, PHD, врач. Опыт работы с медицинскими данными более 10 лет: медицинская статистика, анализ данных, прогнозирование, автор 6 патентов и   двух авторских ПО.
+                    Опыт в Data Science 1 год - CV, ML.
+
+
 🔭 I’m currently working on screening for autism spectrum disorders in young children 
 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
